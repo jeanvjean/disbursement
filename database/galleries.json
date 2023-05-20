@@ -1,0 +1,27 @@
+/* 1 */
+{
+    "_id" : ObjectId("5e0f3cbb41ec57745eda2cec"),
+    "image" : [ 
+        "imagegallery_1578056891072_.JPG", 
+        "imagegallery_1578056891105_.JPG", 
+        "imagegallery_1578056891135_.JPG", 
+        "imagegallery_1578056891185_.JPG", 
+        "imagegallery_1578056891239_.JPG"
+    ],
+    "event" : "Rural awareness training",
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5e0f3cf141ec57745eda2ced"),
+    "image" : [ 
+        "imagegallery_1578056945364_.JPG", 
+        "imagegallery_1578056945396_.JPG", 
+        "imagegallery_1578056945418_.JPG", 
+        "imagegallery_1578056945438_.JPG", 
+        "imagegallery_1578056945455_.JPG"
+    ],
+    "event" : "Training of personels",
+    "__v" : 0
+}

@@ -1,0 +1,25 @@
+/* 1 */
+{
+    "_id" : ObjectId("5cd458cff344b55be302e872"),
+    "photos" : [ 
+        "[photos]services_1557420239613_.png"
+    ],
+    "name" : "Test Service",
+    "info" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\r\n",
+    "slog" : "Test Service-6012",
+    "created_at" : "05/09/2019",
+    "updated_at" : "05/09/2019",
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5d48214dfc856431083a51a4"),
+    "photos" : [],
+    "name" : "OUR SPONSORSHIP PROGRAM",
+    "info" : "<p>The Rural Women and Youth Development Foundation (rweydf) under its sponsorship program, gave scholarship to about eleven (11) to complete their Secondary Education. More are still been enrolled.</p>\r\n\r\n<p>Their names are:</p>\r\n\r\n<p>1) Sunday O. Suleiman</p>\r\n\r\n<p>2) Abdullkareem Suleiman</p>\r\n\r\n<p>3) Raji&nbsp;&nbsp; Hussein</p>\r\n\r\n<p>4) Shaibu Hassan</p>\r\n\r\n<p>5) Shaibu Idowu</p>\r\n\r\n<p>6) Noah Joy</p>\r\n\r\n<p>7) Salihu I. Nanafajimoh</p>\r\n\r\n<p>8) Noah Isreal</p>\r\n\r\n<p>9) Ibrahim O. Zainab</p>\r\n\r\n<p>10) Noah Comfort</p>\r\n\r\n<p>11) Siyaka Shefiya</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "slog" : "OUR SPONSORSHIP PROGRAM-8694",
+    "created_at" : "07/19/2019",
+    "updated_at" : "07/19/2019",
+    "__v" : 0
+}

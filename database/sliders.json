@@ -1,0 +1,55 @@
+/* 1 */
+{
+    "_id" : ObjectId("5cdfbb67d86fed42464fa945"),
+    "image" : "image-slider_-1558166375242___.JPG",
+    "info" : "THE DIRECTOR, RWEYDF, HAJIA MARYAM LADI IBRAHIM fcna",
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5cdfbca7d86fed42464fa946"),
+    "image" : "image-slider_-1558166695366___.JPG",
+    "info" : "THE DIRECTOR, RWEYDF, HAJIA MARYAM LADI IBRAHIM fcna, IN A GROUP PHOTOGRAPH WITH THE CHILDREN OF \"MOM'S\" ORPHANAGE HOME",
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5d2739a649904f55ae20ac23"),
+    "image" : "image-slider_-1562851750027___.jpg",
+    "info" : "The Director, RWEYDF on a follow up visit to MOM's Orphanage Homes on the 12th of June, 2019",
+    "__v" : 0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5d27517a49904f55ae20ac24"),
+    "image" : "image-slider_-1562857850630___.jpg",
+    "info" : "THE DIRECTOR, RWEYDF, HAJIA MARYAM LADI IBRAHIM, fcna, on a follow up visit to the Margaret Garba Ohiani Orphanage/Lessprivilege Home on the 12th of June, 2019",
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5d2753ac49904f55ae20ac25"),
+    "image" : "image-slider_-1562858412119___.jpg",
+    "info" : "The Rweydf Staff visit to the Margaret Garba Ohiani Orphange/Lessprivilege Home, along Zango Daji, Lokoja, Kogi State, Nigeria.",
+    "__v" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5d2d8d1449904f55ae20ac27"),
+    "image" : "image-slider_-1563266324680___.jpg",
+    "info" : "WREYDF STAFF IN A GROUP PHOTOGRAPH DURING HER VISIT TO THE MARGARET GARBA OHIANI ORPHANAGE/LESSPRIVILEGE HOMET",
+    "__v" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5d2de4ce49904f55ae20ac2c"),
+    "image" : "image-slider_-1563288782750___.jpg",
+    "info" : "Presentation of Cash and gift items to the MOM's Orphanage Homes",
+    "__v" : 0
+}

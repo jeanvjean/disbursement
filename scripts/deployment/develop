@@ -1,0 +1,9 @@
+-#!/bin/sh     
+ssh aku@dev-sos-api.akuproducts.com <<EOF       
+ cd dev/www/sos-api-develop
+ git pull --no-edit
+ npm install --production
+ npm run migrate_up:production
+ pm2 restart DEVELOP_SOS_API_SERVER
+ exit
+EOF

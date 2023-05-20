@@ -1,0 +1,13 @@
+version: "3.3"
+services:
+
+  akupay-sos-api:
+      build:
+        context: .
+        dockerfile: Dockerfile
+      image: cap10/myrepository:akupay-sos-api
+      container_name: akupay-sos-api
+      ports:
+        - 3008:3008
+    
+      

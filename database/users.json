@@ -1,0 +1,8 @@
+/* 1 */
+{
+    "_id" : ObjectId("5e0f20db63046369f13d55e1"),
+    "account_type" : "admin",
+    "email" : "admin@rweydf.org",
+    "password" : "$2a$10$8RoVvmq/nd07fVCoAtFo0O9yiPwPAV/.CFmxF0XcTFE8by2.7MT1C",
+    "__v" : 0
+}
